@@ -2,9 +2,6 @@ eaadcfadfsegimplenting maven project.
 and generating package by giving command
 mvn package
 demomnstrating github webhook
-demonstrating poll scm
-abc
-xyz
-implementing github webhookJKDFBOUI
+demonstrating poll shelloookJKDFBOUI
 wadmaw
 
